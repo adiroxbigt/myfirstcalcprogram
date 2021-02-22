@@ -1,1 +1,2 @@
-This mis my first version change.
+This is my first version change.
+Also added multiply function.
